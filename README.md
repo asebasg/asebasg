@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Sebasti%C3%A1n%20Ospina&fontSize=58&fontColor=E9DFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Systems%20Integration%20%26%20Automation&descAlignY=58&descSize=18&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Sebasti%C3%A1n%20Ospina&fontSize=58&fontColor=E9DFFF&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20Software%20%C2%B7%20Integraci%C3%B3n%20de%20Sistemas%20y%20Automatizaci%C3%B3n&descAlignY=58&descSize=18&width=1200" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Salesforce+%7C+Power+Automate+%7C+System+Integration;Building+PawLig+-+Pet+Marketplace+Platform;Automating+workflows%2C+one+pipeline+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Salesforce+%7C+Power+Automate+%7C+Integraci%C3%B3n+de+Sistemas;Construyendo+PawLig+-+Plataforma+de+Mascotas;Automatizando+flujos%2C+un+pipeline+a+la+vez" alt="Typing SVG" />
 
 <br/>
 
@@ -21,19 +21,19 @@
 
 ---
 
-## 🪐 About
+## 🪐 Sobre mí
 
-I work at the intersection of **systems integration and process automation** — connecting platforms like Salesforce, ServiceNow, and SAP into reliable, low-friction workflows, and building products end-to-end when the idea calls for it.
+Trabajo en la intersección entre la **integración de sistemas y la automatización de procesos** — conectando plataformas como Salesforce, ServiceNow y SAP en flujos de trabajo confiables y sin fricción, y construyendo productos de principio a fin cuando la idea lo amerita.
 
-Day to day, that means designing automation flows that remove manual work from complex data pipelines, and writing clean Apex/SOQL and SQL to keep systems in sync. Outside of that, I build my own products — currently **PawLig**, a pet adoption and marketplace platform — and explore lower-level programming, from graphics shaders to advanced Git workflows.
+En el día a día, eso significa diseñar flujos de automatización que eliminan trabajo manual de pipelines de datos complejos, y escribir Apex/SOQL y SQL limpio para mantener los sistemas sincronizados. Fuera de eso, construyo mis propios productos — actualmente **PawLig**, una plataforma de adopción y marketplace de mascotas — y exploro programación de más bajo nivel, desde shaders gráficos hasta flujos de Git avanzados.
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
-**Languages**
+**Lenguajes**
 
 <p><img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" /></p>
 
@@ -41,7 +41,7 @@ Day to day, that means designing automation flows that remove manual work from c
 
 <p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /></p>
 
-**Backend & Platforms**
+**Backend y Plataformas**
 
 <p>
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
@@ -51,7 +51,7 @@ Day to day, that means designing automation flows that remove manual work from c
 <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
 </p>
 
-**Cloud, DevOps & Tooling**
+**Cloud, DevOps y Herramientas**
 
 <p>
 <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square" />
@@ -63,18 +63,18 @@ Day to day, that means designing automation flows that remove manual work from c
 
 ---
 
-## ⚙️ Automation & Integration Focus
+## ⚙️ Enfoque en Automatización e Integración
 
 <div align="center">
 
-| Domain | Details |
+| Dominio | Detalles |
 |---|---|
-| Process Automation | Power Automate flows for cross-system data ingestion (ServiceNow → SharePoint) |
-| Salesforce Development | Apex scripts, SOQL queries, Lightning Web Components (LWC) |
-| Data Wrangling | Python/pandas for filtering, cross-referencing, and reformatting large ticket/report sets |
-| Systems Integration | ServiceNow, Salesforce (SFI), SAP — working across ticketing, CRM, and billing systems |
-| Version Control | Advanced Git — rebase, stash, tags, GPG-signed commits |
-| Graphics Programming | Exploring shaders (GLSL/HLSL) |
+| Automatización de Procesos | Flujos de Power Automate para ingesta de datos entre sistemas (ServiceNow → SharePoint) |
+| Desarrollo Salesforce | Scripts Apex, consultas SOQL, Lightning Web Components (LWC) |
+| Procesamiento de Datos | Python/pandas para filtrar, cruzar y reformatear grandes conjuntos de tickets/reportes |
+| Integración de Sistemas | ServiceNow, Salesforce (SFI), SAP — entre sistemas de tickets, CRM y facturación |
+| Control de Versiones | Git avanzado — rebase, stash, tags, commits firmados con GPG |
+| Programación Gráfica | Explorando shaders (GLSL/HLSL) |
 
 </div>
 
@@ -82,40 +82,40 @@ Day to day, that means designing automation flows that remove manual work from c
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos Destacados
 
 <details>
-<summary><b>🐾 PawLig — Pet Adoption & Marketplace Platform</b></summary>
+<summary><b>🐾 PawLig — Plataforma de Adopción y Marketplace de Mascotas</b></summary>
 <br/>
 
-A platform connecting shelters, sellers, and adopters across the Valle de Aburrá — a bridge between the parties rather than a direct seller of pets or products itself.
+Una plataforma que conecta refugios, vendedores y adoptantes en el Valle de Aburrá — un puente entre las partes, sin ofrecer directamente adopciones ni productos.
 
-| Attribute | Detail |
+| Atributo | Detalle |
 |---|---|
 | **Stack** | Next.js, Vercel, Firebase |
-| **Scale** | Regional marketplace — Valle de Aburrá |
-| **Design** | Branded identity in purple, teal, and amber |
-| **Role** | End-to-end — product, frontend, and infrastructure |
-| **Repository** | Private |
+| **Alcance** | Marketplace regional — Valle de Aburrá |
+| **Diseño** | Identidad de marca en morado, verde azulado (teal) y ámbar |
+| **Rol** | De principio a fin — producto, frontend e infraestructura |
+| **Repositorio** | Privado |
 
-Built as a two-sided marketplace connecting adoption shelters and pet-product sellers with end users, with the project charter itself produced as a branded PDF via a custom Python + WeasyPrint pipeline.
+Construido como un marketplace de dos lados que conecta refugios de adopción y vendedores de productos para mascotas con usuarios finales; el charter del proyecto se generó como un PDF de marca mediante un pipeline propio en Python + WeasyPrint.
 
 </details>
 
 <details>
-<summary><b>🔄 Depuración Incidentes — Automated Reporting Pipeline</b></summary>
+<summary><b>🔄 Depuración Incidentes — Pipeline de Reportería Automatizado</b></summary>
 <br/>
 
-A Power Automate flow that automates the ingestion of ServiceNow incident reports into a centralized SharePoint master file.
+Un flujo de Power Automate que automatiza la ingesta de reportes de incidentes de ServiceNow hacia un archivo maestro centralizado en SharePoint.
 
-| Attribute | Detail |
+| Atributo | Detalle |
 |---|---|
 | **Stack** | Power Automate, SharePoint, OneDrive |
-| **Scope** | Table management, temp file handling, full column mapping |
-| **Impact** | Removes manual copy/paste from a recurring reporting workflow |
-| **Repository** | Private / internal |
+| **Alcance** | Gestión de tablas, manejo de archivos temporales, mapeo completo de columnas |
+| **Impacto** | Elimina el copiar y pegar manual de un flujo de reportería recurrente |
+| **Repositorio** | Privado / interno |
 
-Handles the end-to-end flow — from picking up new ServiceNow exports to reconciling and mapping columns into the master SharePoint table, including temporary file handling via OneDrive.
+Cubre el flujo completo — desde la recepción de nuevas exportaciones de ServiceNow hasta la conciliación y el mapeo de columnas en la tabla maestra de SharePoint, incluyendo el manejo de archivos temporales vía OneDrive.
 
 </details>
 
@@ -123,19 +123,19 @@ Handles the end-to-end flow — from picking up new ServiceNow exports to reconc
 
 ---
 
-## 📜 Certifications
+## 📜 Certificaciones
 
 **Salesforce**
 
 <p>
-<img src="https://img.shields.io/badge/Salesforce%20Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Certificado%20Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 <br/>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analítica de GitHub
 
 <div align="center">
 
@@ -152,7 +152,7 @@ Handles the end-to-end flow — from picking up new ServiceNow exports to reconc
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trofeos de GitHub
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Handles the end-to-end flow — from picking up new ServiceNow exports to reconc
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Actividad de Contribuciones
 
 <div align="center">
 
@@ -176,14 +176,14 @@ Handles the end-to-end flow — from picking up new ServiceNow exports to reconc
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake de Contribuciones
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asebasg/asebasg/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asebasg/asebasg/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/asebasg/asebasg/output/github-contribution-grid-snake.svg" />
+  <img alt="animación snake de contribuciones" src="https://raw.githubusercontent.com/asebasg/asebasg/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -192,25 +192,25 @@ Handles the end-to-end flow — from picking up new ServiceNow exports to reconc
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Enfoque Actual
 
 ```yaml
-current_focus:
-  learning:
-    - Shaders & graphics programming (GLSL/HLSL)
-    - Advanced Salesforce development (LWC)
-  building:
-    - PawLig — pet adoption & marketplace platform
-    - Depuración Incidentes — Power Automate reporting pipeline
-  exploring:
-    - Advanced Git workflows (GPG-signed commits, rebase strategies)
+enfoque_actual:
+  aprendiendo:
+    - Shaders y programación gráfica (GLSL/HLSL)
+    - Desarrollo avanzado en Salesforce (LWC)
+  construyendo:
+    - PawLig — plataforma de adopción y marketplace de mascotas
+    - Depuración Incidentes — pipeline de reportería en Power Automate
+  explorando:
+    - Flujos de Git avanzados (commits firmados con GPG, estrategias de rebase)
 ```
 
 <br/>
 
 ---
 
-## 🤝 Connect
+## 🤝 Contacto
 
 <div align="center">
 
@@ -225,7 +225,7 @@ current_focus:
 
 <div align="center">
 
-*"Great systems disappear into the background — you only notice them when they're missing."*
+*"Los grandes sistemas desaparecen en el fondo — solo los notas cuando faltan."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&width=1200" width="100%"/>
 
